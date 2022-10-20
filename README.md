@@ -11,6 +11,6 @@ password yourself.
 - No password is shown directly and is copied to clipboard when fetched.
 
 ## How to install
-1. Download the .zip file from the link given in about section or [click here](https://cyantarantula.github.io/My-Portfolio/projectFiles/Titanium%20Vault%20v1.1%20(By%20Yash%20Bhargava).zip).
+1. Download the .zip file from the link given in about section or [click here](https://github.com/CyanTarantula/Titanium-Vault/releases/download/v1.1/Titanium.Vault.v1.1.By.Yash.Bhargava.zip).
 2. Extact the contents of the file.
 3. Run the application using the executable named Titanium Vault. Enjoy!!
