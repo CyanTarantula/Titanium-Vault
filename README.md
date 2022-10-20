@@ -11,6 +11,6 @@ password yourself.
 - No password is shown directly and is copied to clipboard when fetched.
 
 ## How to install
-1. Download the .zip file from the link given in about section or [click here](https://github.com/CyanTarantula/Titanium-Vault/releases/download/v1.1/Titanium.Vault.v1.1.By.Yash.Bhargava.zip).
+1. Download the .zip file from the link given in about section or [click here](https://github.com/CyanTarantula/Hangman_Game/releases/download/v1.2/Hangman.Game.v1.2.By.Yash.Bhargava.zip).
 2. Extact the contents of the file.
 3. Run the application using the executable named Titanium Vault. Enjoy!!
